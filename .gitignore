@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+fintrack.db
+fintrack.db-journal
+fintrack.db-shm
+fintrack.db-wal
+.env
+.DS_Store
+Thumbs.db
